@@ -36,5 +36,6 @@ def main():
         
         print(f'Episode {episode + 1}: Total Reward: {total_reward}')
 
+
 if __name__ == '__main__':
     main()
